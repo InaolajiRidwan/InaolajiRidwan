@@ -1,4 +1,4 @@
-### Hi there, I'm INAOLAJI ADEWALE RIDWAN 👋
+
 
 ### Hi there 👋, Inaolaji A Ridwan
 #### Design and Development
