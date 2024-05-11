@@ -5,10 +5,10 @@
 A passionate software developer, I thrive on creating, engaging and user-friendly experiences on the web. I work on React, Nextjs, JavaScript, CSS, Bootstrap, Tailwindcss, Figma and Canva
 
 ## Skills
-.⚛️ React
-.💻 HTML, CSS, JS
-.📱 Figma
-.⏭ NextJs
+* ⚛️ React
+* 💻 HTML, CSS, JS
+* 📱 Figma
+* ⏭ NextJs
 
 
 
