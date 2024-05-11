@@ -8,7 +8,7 @@ A passionate software developer, I thrive on creating, engaging and user-friendl
 
 Skills: REACT/ NEXTJS / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
